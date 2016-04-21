@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\MyApplication\\AnimOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calculate.xml",
+        "source": "E:\\MyApplication\\AnimOrder\\app\\src\\main\\res\\layout\\calculate.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\Order\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_calculate_item.xml",
+        "source": "E:\\MyApplication\\Order\\app\\src\\main\\res\\layout\\order_calculate_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\Order\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calculate.xml",
+        "source": "E:\\MyApplication\\Order\\app\\src\\main\\res\\layout\\calculate.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\Order\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_footer.xml",
+        "source": "E:\\MyApplication\\Order\\app\\src\\main\\res\\layout\\order_footer.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AnimOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_calculate_item.xml",
+        "source": "E:\\MyApplication\\AnimOrder\\app\\src\\main\\res\\layout\\order_calculate_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AnimOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\writerdeath.xml",
+        "source": "E:\\MyApplication\\AnimOrder\\app\\src\\main\\res\\layout\\writerdeath.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\Order\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\MyApplication\\Order\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AnimOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_writedeath_item.xml",
+        "source": "E:\\MyApplication\\AnimOrder\\app\\src\\main\\res\\layout\\order_writedeath_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\Order\\app\\build\\intermediates\\res\\merged\\debug\\layout\\writerdeath.xml",
+        "source": "E:\\MyApplication\\Order\\app\\src\\main\\res\\layout\\writerdeath.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AnimOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\MyApplication\\AnimOrder\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AnimOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_footer.xml",
+        "source": "E:\\MyApplication\\AnimOrder\\app\\src\\main\\res\\layout\\order_footer.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\Order\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_writedeath_item.xml",
+        "source": "E:\\MyApplication\\Order\\app\\src\\main\\res\\layout\\order_writedeath_item.xml"
+    }
+]

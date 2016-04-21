@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\MyApplication\AnimOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f0ab625e2aa242d01aa2cd3c4d39a3cf5323d1f8\classes.dex" />
+    </item>
+    <item
+        jar="E:\MyApplication\AnimOrder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a7f30ffff2a8ff30d557ffb2e75e21c31faf0255">
+        <dex dex="E:\MyApplication\AnimOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_736cc62eeb9fe13031242b3454600a8fca3d7170\classes.dex" />
+    </item>
+    <item
+        jar="E:\MyApplication\AnimOrder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0ce94ea7f165fa0beeb39631ee47562b5ea7a31">
+        <dex dex="E:\MyApplication\AnimOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_085c4f9a97fcf88da1b00dabc67e3ca850a01bb4\classes.dex" />
+    </item>
+
+</items>
